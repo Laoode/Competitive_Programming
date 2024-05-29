@@ -1,0 +1,2 @@
+keylogger = input()
+print(keylogger)
